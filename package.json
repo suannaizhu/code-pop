@@ -10,7 +10,10 @@
     "lint:style": "stylelint src/**/*.{css,scss,vue}"
   },
   "dependencies": {
-    "vue": "^3.2.25"
+    "axios": "^0.26.0",
+    "pinia": "^2.0.11",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.12"
   },
   "devDependencies": {
     "@types/node": "^17.0.21",
